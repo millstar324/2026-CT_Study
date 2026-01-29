@@ -39,6 +39,6 @@
 | 방장 | millstar324 | [Link](https://github.com/millstar324) |
 | 멤버1 | sungcoook | [Link](https://github.com/member1-id) |
 | 멤버2 | chewndaeng | [Link](https://github.com/chewndaeng) |
-| 멤버3 |  | [Link]() |
+| 멤버3 | elbmuh | [Link](https://github.com/elbmuh) | 
 
 ---
