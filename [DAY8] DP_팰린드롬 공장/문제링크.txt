@@ -1,1 +1,5 @@
 https://www.acmicpc.net/problem/1053
+
+### 팰린드롬(Palindrome)이란?
+### 앞 뒤로 읽어도 같은 단어, 숫자, 구 또는 기타 구호의 연속.
+### 예시 : madam, racecar, 22/02/2022 (출처 위키피디아)
