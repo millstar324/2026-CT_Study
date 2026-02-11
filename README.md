@@ -8,6 +8,27 @@
 
 ### 1. 문제 선정 및 출제
 * **난이도:** [주중]: backjoon 알고리즘 유형별 2개 연속 선택 / [주말]:프로그래머스 **Lv.1 (정답률 50% 이하)** ~ **Lv.3**
+  | Title | Name |
+| :--- | :--- |
+| Implementation | 구현 |
+| Dynamic Programming | 동적계획법 |
+| Greedy | 그리디 |
+| Bruteforce | 브루트포스 |
+| Sorting | 정렬 |
+| Binary Search | 이분 탐색 |
+| BFS & DFS | 너비 & 깊이 우선탐색 |
+| Prefix Sum | 누적합 |
+| Dijkstra | 다익스트라 |
+| Disjoint Set | 분리 집합 |
+| Backtracking | 백 트래킹 |
+| Stack & Queue | 스택 & 큐 |
+| Two Pointer | 투 포인터 |
+| Minimum Spanning Tree | 최소 스패닝 트리 |
+| Topological Sorting | 위상 정렬 |
+| Floyd-warshall | 플로이드 와샬 |
+| Sliding Window | 슬라이딩 윈도우 |
+
+
 * **출제 방식:** 팀원별로 순번을 정해 **매일** 한 문제씩 추천합니다.
 * **폴더 생성:** 문제 출제자가 해당 문제의 폴더를 직접 생성합니다.
     **폴더명 규칙:** `DAY[] [알고리즘명]_[문제명]`/`DAY[] Lv[레벨]_[문제명]` (예: `[DAY2] Lv2_소수만들기`)
