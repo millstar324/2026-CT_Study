@@ -8,7 +8,8 @@
 
 ### 1. 문제 선정 및 출제
 * **난이도:** [주중]: backjoon 알고리즘 유형별 2개 연속 선택 / [주말]:프로그래머스 **Lv.1 (정답률 50% 이하)** ~ **Lv.3**
-  | Title | Name |
+
+| Title | Name |
 | :--- | :--- |
 | Implementation | 구현 |
 | Dynamic Programming | 동적계획법 |
