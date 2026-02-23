@@ -15,6 +15,6 @@ def solve():
         print(i)
 
 solve()
-    
+     
 
 
