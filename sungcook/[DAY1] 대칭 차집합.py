@@ -21,11 +21,22 @@
 
 # 시간 초과 실패
 
+# =======================================================
+
+# setAnum, setBnum = map(int, input().split())
+# setA = set(map(int, input().split()))
+# setB = set(map(int, input().split()))
+
+# notsetA = setA - setB
+# notsetB = setB - setA
+
+# print(len(notsetA | notsetB))
+
+# =======================================================
 setAnum, setBnum = map(int, input().split())
 setA = set(map(int, input().split()))
 setB = set(map(int, input().split()))
 
-notsetA = setA - setB
-notsetB = setB - setA
+print(len(setA ^ setB))
 
-print(len(notsetA | notsetB))
+# =======================================================
