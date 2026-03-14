@@ -1,5 +1,7 @@
 """
-
+내 코드 문제 1)  각도 계산 오류 1/600 이 아니라 1/120
+            2) 부동소수점으로 하면 누적 오차 발생 및 while문 빠져나가는 조건에 걸릴 수 가 없음
+            
 """
 
 
@@ -41,13 +43,13 @@ def solution(h1, m1, s1, h2, m2, s2):
         # 초침이 시침을 추월했는가?
         match_h = curr_s < curr_h and next_s >= next_h
         
-        if match_m and match_h:
+        if match_m and match_h: 
             # 시침과 분침 위치가 같아져서 초침이 동시에 겹친 경우 (1번만 카운트)
             if next_m == next_h:
                 answer += 1
             else:
                 answer += 2
-        elif match_m or match_h:
+        elif match_m or match_h: #[초침은 추월한 경우만 보면 됨!!!]
             answer += 1
             
     return answer
